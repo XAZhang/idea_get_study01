@@ -9,5 +9,6 @@ package com.az.pojo;
  */
 public class User {
     private String name;
+    private String address;//用户1增加
     private int age;
 }
