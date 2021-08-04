@@ -11,4 +11,5 @@ public class User {
     private String name;
     private String address;//用户1增加
     private int age;
+    private int sex;//a0用户提交
 }
