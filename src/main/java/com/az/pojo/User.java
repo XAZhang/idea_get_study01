@@ -10,4 +10,5 @@ package com.az.pojo;
 public class User {
     private String name;
     private int age;
+    private int sex;//a0用户提交
 }
